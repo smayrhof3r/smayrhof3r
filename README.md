@@ -5,7 +5,7 @@
 # About me
 Experienced, ambitious, and highly motivated with 16 years of banking experience, throughout my career I have demonstrated a passion for digital innovation and driving creative solutions. Looking for a new challenge and keen to build on my interest, I signed up for the Web Development bootcamp in 2022. Through the bootcamp, I have not only discovered my passion for full stack development as an outlet for my creativity, but have also confirmed that this is an area where my eye for detail, perseverance, and problem-solving skills combined with my ability to engage, influence and inspire others makes me uniquely suited for a role as a fullstack developer. I look forward to finding opportunities to further build and develop my skills in this area, and am always open to learning new technologies and taking on new challenges.
 
-# My latest projects
+# My projects
 
 🔭 I’m currently working on...
 1. **Littlest Paws Club**, a dog walker's booking site. Unpaid and initiated by @lambley, this project is an opportunity to flex my new skills as a web developer and hopefully add a few more! 
