@@ -3,7 +3,7 @@
 📫 Email:     smayrhofer@gmail.com
 
 # About me
-Experienced, ambitious, and highly motivated with 16 years of banking experience, throughout my career I have demonstrated a passion for digital innovation and driving creative solutions. Looking for a new challenge and keen to build on my interest, I signed up for the Web Development bootcamp in 2022. I look forward to finding opportunities to further build and develop my skills in this area, and am always open to learning new technologies and taking on new challenges.
+Experienced, ambitious, and highly motivated with 16 years of banking experience, throughout my career I have always had a passion for digital innovation and driving creative solutions. Looking for a new challenge and keen to build on my interest, I signed up for the Web Development bootcamp in 2022. I look forward to finding opportunities to further build and develop my skills in this area, and am always open to learning new technologies and taking on new challenges.
 
 **🤓 What I'm learning now**
 - **Node.js and React.js** to improve my web development skills with a new tech stack. 
