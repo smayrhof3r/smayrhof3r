@@ -14,6 +14,8 @@ Experienced, ambitious, and highly motivated with 16 years of banking experience
 **🔭 I’m currently working on...**
 1. **London Jets Ball Hockey team site**, a website built on Ruby on Rails for managing the ball hockey's practice sessions and activities. The original owner has moved on, and I'm just about to get busy maintaining and improving this site. A great opportunity to work on an existing code base built by professionals, include payment functionality using Stripe
 
+2. [Ethereum Developer Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide): I have just started the DLT Talent Program with Frankfurt School of Finance Blockchain Center, and I'm working through a course on solidity programming and ethereum app building alongside this! 
+
 **💬 Ask me about my completed projects! (Listed here with most recent one first)**
 1. [triply](www.triply.world) : Here, I had the opportunity to lead a project group in the application of BDD and agile methods to design, implement and release into production a website for managing group travel. The resulting web application uses the Amadeus API for real-time flight data to propose destinations for travellers from multiple starting locations, optimised by either price or travel duration, and enables sharing of itineraries with other site members. It even includes the invitable gem for inviting users through an emailed link! ([repo](https://github.com/smayrhof3r/triply))
 
